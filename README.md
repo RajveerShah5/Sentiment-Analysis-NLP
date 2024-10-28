@@ -13,14 +13,15 @@ Make sure you have the following Python packages installed:
 - `matplotlib`: Used for plotting and visualizing the data.
 - `collections`: Used for counting and processing emotion words.
 
-How to Use
+## How to Use
 Prepare the Input Files:
-
 Save the text you want to analyze in read.txt.
 The emotions.txt file should contain emotion-word mappings in the format word:emotion.
 The script generates two bar charts, one for sentiment analysis and one for emotion analysis. These are saved as graph.png.
-Example Output
+
+## Example Output
 Sentiment Analysis: Shows the positive, negative, and neutral sentiment distribution in the text.
 Emotion Analysis: Displays the frequencies of different emotions found in the text.
-Issues & Contributing
+
+## Issues & Contributing
 Feel free to open an issue if you encounter any bugs or have suggestions for improvement. Contributions are welcome!
